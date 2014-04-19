@@ -141,20 +141,11 @@ a:after {
 	margin-top: -10px;
 	padding-top:20px;
 	text-align:center;
-	background-attachment: relative;
+	/*background-attachment: fixed;*/
 	background-position: center center;
-	min-height: 500px;
+	min-height: 700px;
 	width: 100%;
-	
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
-
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+	background-color: #e9e7e8;
 }
 
 #headerwrap h1 {
