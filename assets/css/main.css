@@ -164,6 +164,13 @@ a:after {
 	text-transform: uppercase;
 }
 
+#headerwrap h3 {
+	color: white;
+	font-size: 26px;
+	color: black;
+	text-decoration:underline;
+}
+
 /* Dark Grey Wrap */
 #dg {
 	background: #e0e0e0;
