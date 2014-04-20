@@ -117,7 +117,7 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/header-bg.jpg) no-repeat center top;
+	background: url(../img/bg.jpg) no-repeat center top;
 	text-align:center;
 	background-position: top center;
 	min-height: 690px;
